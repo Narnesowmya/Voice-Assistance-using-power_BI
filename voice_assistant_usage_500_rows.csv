@@ -1,0 +1,501 @@
+Country,Year,Alexa (%),Google Assistant (%),Siri (%),Smart Speaker Adoption (%),Top Device,Population (millions)
+Indonesia,2022,21,47,32,73,Amazon Echo,1268
+Finland,2022,43,61,30,63,Google Nest,150
+Russia,2022,22,62,16,32,Amazon Echo,1000
+Italy,2023,13,66,21,67,iPhone with Siri,518
+Italy,2024,21,26,53,49,Galaxy Bixby,557
+Philippines,2023,31,30,39,58,Galaxy Bixby,746
+South Korea,2023,11,35,54,50,Galaxy Bixby,1377
+Finland,2024,12,44,44,33,Google Nest,922
+Switzerland,2023,27,45,28,71,Galaxy Bixby,1152
+France,2022,25,56,19,48,Amazon Echo,883
+UK,2022,15,55,30,66,Amazon Echo,1008
+Nigeria,2023,24,34,42,52,Amazon Echo,539
+Vietnam,2022,48,51,1,74,iPhone with Siri,610
+Austria,2022,22,59,19,47,Amazon Echo,313
+UAE,2022,33,47,20,39,iPhone with Siri,23
+Malaysia,2022,26,37,37,58,Amazon Echo,365
+Argentina,2022,48,58,37,36,iPhone with Siri,652
+Bangladesh,2024,28,65,7,69,Galaxy Bixby,206
+Ukraine,2024,36,54,10,39,Google Nest,1331
+Poland,2024,39,37,24,68,Galaxy Bixby,1066
+Colombia,2024,19,20,61,57,Amazon Echo,340
+Thailand,2023,29,61,10,71,Amazon Echo,1081
+Pakistan,2024,44,37,19,35,Android Smartphones,146
+Russia,2024,26,34,40,36,Google Nest,1311
+Switzerland,2024,14,30,56,75,Google Nest,730
+Mexico,2022,33,27,40,49,Amazon Echo,502
+Norway,2024,48,42,10,41,Android Smartphones,953
+Brazil,2023,47,38,15,43,iPhone with Siri,1309
+Spain,2024,16,52,32,69,iPhone with Siri,920
+South Korea,2024,15,48,37,38,Galaxy Bixby,1205
+Netherlands,2023,48,66,12,32,Amazon Echo,832
+France,2023,12,22,66,30,Android Smartphones,1396
+Thailand,2022,49,53,31,39,Android Smartphones,910
+Bangladesh,2024,19,34,47,33,Amazon Echo,764
+Netherlands,2024,46,48,6,69,Amazon Echo,1220
+Turkey,2023,20,37,43,64,Amazon Echo,1366
+India,2024,25,37,38,34,Android Smartphones,656
+Saudi Arabia,2022,34,21,45,51,Amazon Echo,111
+Indonesia,2024,22,63,15,35,Amazon Echo,958
+Italy,2022,11,26,63,44,iPhone with Siri,294
+Finland,2022,15,44,41,65,Android Smartphones,951
+Philippines,2024,23,66,11,32,Google Nest,1201
+Malaysia,2024,20,48,32,61,Google Nest,477
+Turkey,2024,38,51,11,51,Galaxy Bixby,1196
+Sweden,2022,50,22,28,51,Amazon Echo,115
+France,2022,43,65,35,49,iPhone with Siri,1308
+UK,2022,14,46,40,30,iPhone with Siri,1203
+Bangladesh,2022,27,33,40,73,Google Nest,836
+Poland,2022,13,51,36,35,Android Smartphones,659
+Philippines,2023,47,46,7,62,Google Nest,384
+Colombia,2022,28,37,35,55,Galaxy Bixby,1113
+Spain,2024,45,39,16,71,iPhone with Siri,989
+UK,2023,40,34,26,55,Android Smartphones,105
+Turkey,2022,12,38,50,41,Amazon Echo,156
+Spain,2024,13,66,21,34,Google Nest,722
+Pakistan,2023,23,36,41,52,iPhone with Siri,1353
+Egypt,2024,10,68,22,63,Galaxy Bixby,1049
+Malaysia,2024,27,66,7,40,Galaxy Bixby,869
+Denmark,2023,38,27,35,32,Galaxy Bixby,772
+Philippines,2024,11,50,39,49,Android Smartphones,1306
+Australia,2022,15,43,42,62,Galaxy Bixby,1252
+Bangladesh,2022,30,62,8,62,Google Nest,449
+Australia,2022,24,21,55,72,Galaxy Bixby,282
+Nigeria,2023,48,67,25,72,Android Smartphones,922
+Vietnam,2023,13,51,36,59,Amazon Echo,98
+Vietnam,2024,42,67,28,54,Amazon Echo,539
+France,2022,21,49,30,31,iPhone with Siri,226
+USA,2022,27,65,8,57,Galaxy Bixby,43
+Nigeria,2024,38,46,16,71,iPhone with Siri,316
+Pakistan,2022,22,30,48,33,Amazon Echo,806
+Italy,2022,38,32,30,67,Galaxy Bixby,1007
+Thailand,2024,16,63,21,54,Android Smartphones,1096
+Switzerland,2022,34,38,28,46,Galaxy Bixby,779
+Spain,2024,15,46,39,72,Amazon Echo,232
+Colombia,2023,45,69,35,69,Google Nest,197
+Mexico,2024,23,62,15,56,iPhone with Siri,207
+South Korea,2022,41,29,30,35,Galaxy Bixby,997
+Finland,2024,16,21,63,54,Android Smartphones,596
+UK,2022,29,52,19,32,Galaxy Bixby,616
+Japan,2023,40,46,14,68,Amazon Echo,226
+Colombia,2023,11,37,52,52,Galaxy Bixby,375
+Brazil,2024,19,64,17,64,Amazon Echo,1241
+Switzerland,2022,33,54,13,60,iPhone with Siri,624
+Egypt,2023,26,64,10,43,Google Nest,1071
+Finland,2024,21,23,56,48,Google Nest,516
+Austria,2022,44,56,19,57,Galaxy Bixby,565
+Indonesia,2022,47,68,26,30,Galaxy Bixby,694
+UAE,2024,23,51,26,59,Amazon Echo,1018
+Brazil,2022,16,62,22,39,iPhone with Siri,35
+Egypt,2024,23,67,10,40,Galaxy Bixby,168
+Spain,2023,26,22,52,36,Amazon Echo,1003
+Belgium,2022,27,65,8,70,Amazon Echo,538
+UK,2022,20,47,33,73,Android Smartphones,504
+Norway,2022,31,22,47,66,Google Nest,826
+Spain,2024,42,67,36,52,Amazon Echo,897
+Mexico,2022,29,47,24,48,iPhone with Siri,33
+Poland,2022,13,49,38,61,Android Smartphones,1289
+Finland,2024,15,33,52,45,Amazon Echo,744
+Bangladesh,2022,17,54,29,41,iPhone with Siri,708
+UAE,2023,45,70,24,36,Google Nest,313
+Colombia,2023,16,31,53,74,iPhone with Siri,1346
+Pakistan,2023,13,49,38,61,Amazon Echo,904
+Poland,2023,17,43,40,56,Galaxy Bixby,1073
+Austria,2023,21,30,49,33,Android Smartphones,1022
+Bangladesh,2023,16,27,57,74,Amazon Echo,893
+Japan,2022,12,64,24,56,Amazon Echo,480
+Finland,2022,47,39,14,53,Android Smartphones,168
+Nigeria,2023,33,56,11,62,Android Smartphones,492
+Germany,2022,12,38,50,41,iPhone with Siri,1203
+Thailand,2022,32,30,38,63,Google Nest,113
+Brazil,2024,28,28,44,58,Google Nest,1049
+Argentina,2023,17,45,38,40,Google Nest,983
+Italy,2024,40,25,35,42,Google Nest,1133
+Nigeria,2024,21,61,18,66,Android Smartphones,820
+Thailand,2024,22,26,52,64,Galaxy Bixby,247
+Spain,2023,24,70,6,42,Google Nest,1348
+Belgium,2024,21,44,35,70,Amazon Echo,751
+Australia,2022,43,38,19,53,iPhone with Siri,734
+Sweden,2024,41,54,5,69,Amazon Echo,737
+Bangladesh,2023,43,26,31,67,iPhone with Siri,856
+Germany,2024,41,28,31,30,Amazon Echo,459
+Colombia,2023,40,49,11,68,Amazon Echo,74
+India,2024,20,51,29,59,iPhone with Siri,1115
+China,2024,47,47,6,59,Android Smartphones,373
+Spain,2024,37,62,1,72,Google Nest,582
+Germany,2023,39,40,21,45,Galaxy Bixby,258
+Vietnam,2022,10,20,70,45,iPhone with Siri,947
+Switzerland,2023,50,61,19,67,iPhone with Siri,584
+Norway,2024,34,41,25,65,Galaxy Bixby,1382
+Pakistan,2022,36,31,33,31,Amazon Echo,1067
+UK,2022,10,37,53,42,iPhone with Siri,1034
+India,2022,42,37,21,49,Amazon Echo,774
+Austria,2024,39,66,10,40,Google Nest,367
+Egypt,2023,13,37,50,67,Google Nest,1328
+Finland,2024,26,24,50,63,Amazon Echo,1031
+Philippines,2024,32,52,16,63,Google Nest,738
+Belgium,2022,50,35,15,45,Amazon Echo,670
+UK,2023,27,64,9,35,Galaxy Bixby,365
+China,2024,28,52,20,60,Amazon Echo,1306
+Spain,2023,30,59,11,66,Amazon Echo,69
+Austria,2023,49,26,25,73,Google Nest,638
+Indonesia,2024,27,47,26,73,Galaxy Bixby,794
+Nigeria,2022,47,41,12,33,Amazon Echo,690
+Argentina,2024,11,54,35,68,Amazon Echo,991
+Sweden,2024,18,61,21,34,iPhone with Siri,1042
+UAE,2024,29,59,12,42,Google Nest,1265
+South Africa,2023,11,38,51,70,Galaxy Bixby,1010
+Switzerland,2024,50,70,14,49,Galaxy Bixby,368
+Japan,2024,24,23,53,68,Galaxy Bixby,647
+UK,2022,47,22,31,46,Galaxy Bixby,767
+Brazil,2024,38,59,3,67,Android Smartphones,1078
+Russia,2023,41,47,12,67,iPhone with Siri,623
+Belgium,2022,42,23,35,47,Google Nest,558
+Ukraine,2024,49,46,5,40,iPhone with Siri,711
+Australia,2024,44,45,11,34,Galaxy Bixby,712
+Indonesia,2024,41,65,34,72,Galaxy Bixby,1205
+France,2022,38,56,6,60,Amazon Echo,1036
+Denmark,2022,47,20,33,63,Google Nest,448
+Denmark,2022,50,64,21,52,Android Smartphones,660
+Canada,2022,41,28,31,71,Galaxy Bixby,1149
+Germany,2022,43,32,25,42,iPhone with Siri,1019
+South Korea,2023,21,28,51,45,Google Nest,200
+Egypt,2022,38,23,39,41,iPhone with Siri,959
+Australia,2023,40,51,9,46,Amazon Echo,285
+Bangladesh,2022,39,45,16,56,Android Smartphones,779
+South Africa,2023,49,29,22,63,Google Nest,572
+Finland,2024,41,60,36,49,Galaxy Bixby,189
+Malaysia,2023,10,62,28,42,Android Smartphones,430
+Pakistan,2023,48,30,22,66,iPhone with Siri,84
+Italy,2022,17,24,59,64,Amazon Echo,372
+South Africa,2022,17,48,35,47,Android Smartphones,313
+Indonesia,2024,39,54,7,33,Android Smartphones,557
+Sweden,2023,21,32,47,37,iPhone with Siri,36
+Egypt,2023,29,32,39,58,Google Nest,742
+USA,2022,28,60,12,57,Google Nest,1248
+Sweden,2024,13,59,28,59,iPhone with Siri,851
+South Africa,2024,44,40,16,32,iPhone with Siri,495
+Russia,2022,26,33,41,51,Amazon Echo,1216
+Mexico,2023,18,41,41,71,Google Nest,1074
+Turkey,2024,12,26,62,38,Galaxy Bixby,1003
+Bangladesh,2023,46,27,27,73,Google Nest,1391
+India,2022,38,45,17,58,Android Smartphones,720
+Denmark,2023,11,42,47,62,iPhone with Siri,1212
+Canada,2023,37,50,13,37,Amazon Echo,1038
+UAE,2023,50,38,12,68,iPhone with Siri,367
+Philippines,2023,12,46,42,55,Google Nest,412
+Mexico,2022,24,51,25,58,Galaxy Bixby,1310
+South Korea,2022,32,25,43,56,Android Smartphones,1277
+France,2022,17,30,53,32,Android Smartphones,527
+Egypt,2024,18,49,33,59,iPhone with Siri,685
+Vietnam,2022,20,67,13,48,Amazon Echo,877
+Switzerland,2024,29,23,48,33,Android Smartphones,202
+Turkey,2022,14,47,39,70,Android Smartphones,983
+India,2023,49,41,10,58,Google Nest,638
+Sweden,2023,10,42,48,56,iPhone with Siri,137
+UK,2022,35,64,1,74,Google Nest,988
+Brazil,2024,17,53,30,59,Galaxy Bixby,675
+Spain,2024,37,21,42,75,Amazon Echo,313
+Sweden,2024,28,21,51,37,Android Smartphones,515
+Mexico,2024,20,58,22,31,Amazon Echo,682
+Canada,2024,19,27,54,44,Galaxy Bixby,641
+China,2022,32,25,43,68,Android Smartphones,81
+Sweden,2022,40,27,33,37,Android Smartphones,63
+Philippines,2023,41,28,31,54,iPhone with Siri,920
+India,2023,16,54,30,42,iPhone with Siri,570
+France,2022,40,32,28,32,Amazon Echo,750
+UAE,2024,48,30,22,34,Android Smartphones,1399
+France,2024,17,24,59,40,Galaxy Bixby,922
+Turkey,2024,12,24,64,40,Android Smartphones,251
+Italy,2024,17,35,48,52,Android Smartphones,1095
+Thailand,2022,13,44,43,62,Google Nest,54
+Turkey,2024,49,23,28,33,Android Smartphones,763
+Spain,2023,44,37,19,73,Google Nest,634
+Russia,2023,11,53,36,74,iPhone with Siri,353
+UK,2023,33,58,9,63,Amazon Echo,942
+Netherlands,2022,27,33,40,32,Galaxy Bixby,115
+Nigeria,2023,21,47,32,65,Android Smartphones,497
+Germany,2024,50,57,38,47,Android Smartphones,1073
+Belgium,2024,29,59,12,55,Android Smartphones,660
+France,2023,11,24,65,74,Android Smartphones,477
+Egypt,2022,13,37,50,43,Android Smartphones,814
+Spain,2022,20,68,12,33,iPhone with Siri,748
+South Korea,2023,10,31,59,35,Android Smartphones,1225
+Australia,2022,26,61,13,37,iPhone with Siri,1108
+China,2023,35,29,36,50,Google Nest,273
+Germany,2022,50,51,38,38,Amazon Echo,463
+Netherlands,2023,41,70,28,42,Amazon Echo,915
+UAE,2022,50,31,19,30,iPhone with Siri,526
+India,2023,23,49,28,59,Amazon Echo,850
+Nigeria,2023,17,27,56,69,iPhone with Siri,997
+South Korea,2023,23,42,35,38,Amazon Echo,1400
+Austria,2024,32,29,39,54,Amazon Echo,1087
+Egypt,2022,25,48,27,38,Google Nest,561
+Japan,2024,27,69,4,46,iPhone with Siri,260
+South Korea,2023,25,52,23,56,Galaxy Bixby,1150
+France,2024,30,64,6,67,Galaxy Bixby,1366
+Germany,2022,21,66,13,67,Amazon Echo,1176
+USA,2023,42,46,12,35,Galaxy Bixby,207
+Philippines,2022,21,59,20,54,Amazon Echo,620
+Argentina,2023,50,59,10,48,Android Smartphones,166
+Nigeria,2023,31,57,12,36,Android Smartphones,1284
+Austria,2023,19,28,53,43,Google Nest,1294
+Ukraine,2024,43,38,19,56,Android Smartphones,1147
+Indonesia,2023,21,70,9,75,Amazon Echo,500
+Poland,2024,19,42,39,31,Google Nest,926
+Bangladesh,2024,27,56,17,72,Android Smartphones,628
+Bangladesh,2024,43,67,17,56,Amazon Echo,783
+Brazil,2024,42,68,40,64,Google Nest,571
+Bangladesh,2024,26,52,22,68,Google Nest,1168
+Finland,2023,43,36,21,47,Google Nest,563
+Switzerland,2023,47,32,21,36,Google Nest,86
+Spain,2024,44,68,31,66,Android Smartphones,668
+India,2024,47,70,18,58,Amazon Echo,1099
+Vietnam,2023,34,25,41,45,Amazon Echo,337
+Ukraine,2023,17,68,15,66,iPhone with Siri,693
+Spain,2024,35,64,1,52,Amazon Echo,71
+UAE,2022,17,43,40,73,iPhone with Siri,510
+Austria,2022,40,58,2,48,Android Smartphones,91
+Australia,2024,27,43,30,74,Google Nest,1271
+Poland,2023,16,47,37,69,iPhone with Siri,237
+Ukraine,2022,44,53,3,36,Amazon Echo,1372
+Austria,2023,14,42,44,75,Google Nest,412
+Colombia,2023,34,48,18,46,Android Smartphones,928
+India,2024,35,31,34,55,Android Smartphones,183
+Finland,2023,18,43,39,58,iPhone with Siri,146
+Canada,2022,35,69,18,42,Android Smartphones,874
+Nigeria,2022,16,56,28,62,Android Smartphones,712
+Denmark,2022,46,46,8,70,Galaxy Bixby,1013
+Vietnam,2024,43,23,34,38,iPhone with Siri,415
+Saudi Arabia,2022,33,60,7,37,Galaxy Bixby,112
+Argentina,2022,38,28,34,47,Android Smartphones,597
+Colombia,2022,48,46,6,66,Amazon Echo,1188
+Mexico,2022,27,64,9,54,Galaxy Bixby,1095
+Japan,2023,12,35,53,57,Amazon Echo,308
+UK,2023,49,68,16,62,Android Smartphones,1029
+Sweden,2022,28,61,11,65,Google Nest,169
+Poland,2024,45,43,12,40,Amazon Echo,916
+UAE,2024,34,53,13,66,Google Nest,103
+Philippines,2024,31,44,25,57,Galaxy Bixby,230
+Denmark,2022,12,38,50,42,Google Nest,234
+UAE,2023,49,46,5,30,Amazon Echo,250
+USA,2023,12,47,41,33,Galaxy Bixby,429
+Nigeria,2023,25,46,29,71,Amazon Echo,81
+Brazil,2022,38,42,20,39,Galaxy Bixby,90
+USA,2022,48,70,10,51,Amazon Echo,933
+Mexico,2023,12,26,62,63,Amazon Echo,929
+Turkey,2023,47,39,14,60,Android Smartphones,1371
+Australia,2024,22,59,19,73,Galaxy Bixby,498
+China,2022,15,21,64,41,Amazon Echo,540
+Switzerland,2022,44,34,22,38,Amazon Echo,1362
+Egypt,2024,35,22,43,72,Google Nest,551
+Japan,2024,16,32,52,60,Amazon Echo,416
+Italy,2024,37,66,34,59,Galaxy Bixby,129
+Bangladesh,2022,16,42,42,61,Android Smartphones,1051
+Saudi Arabia,2023,44,42,14,67,Galaxy Bixby,739
+UK,2023,12,34,54,66,Google Nest,537
+Norway,2022,25,58,17,45,Android Smartphones,765
+Finland,2022,47,28,25,70,Google Nest,1186
+Colombia,2023,34,57,9,41,Amazon Echo,941
+UK,2023,15,67,18,62,Amazon Echo,165
+Colombia,2023,39,68,34,74,Galaxy Bixby,1033
+Mexico,2024,39,23,38,61,Android Smartphones,53
+Malaysia,2023,44,58,34,52,Galaxy Bixby,921
+Argentina,2023,24,28,48,31,Google Nest,966
+Indonesia,2022,36,36,28,40,Amazon Echo,1142
+Finland,2022,36,35,29,40,Galaxy Bixby,956
+Indonesia,2022,31,53,16,37,Galaxy Bixby,1027
+China,2024,15,64,21,40,Android Smartphones,1328
+Denmark,2023,44,40,16,68,Amazon Echo,753
+Pakistan,2024,31,66,3,73,Amazon Echo,183
+Denmark,2022,36,65,27,59,Amazon Echo,131
+Vietnam,2024,41,26,33,63,Android Smartphones,225
+USA,2024,16,34,50,75,iPhone with Siri,885
+China,2023,43,48,9,59,Galaxy Bixby,833
+Indonesia,2024,44,57,24,36,Amazon Echo,439
+Denmark,2022,13,43,44,48,Amazon Echo,318
+Spain,2022,37,70,32,42,Galaxy Bixby,633
+Egypt,2023,18,20,62,35,Galaxy Bixby,875
+Austria,2023,37,52,11,31,iPhone with Siri,789
+UAE,2024,10,36,54,62,iPhone with Siri,1140
+Belgium,2022,49,22,29,61,iPhone with Siri,889
+China,2023,31,34,35,66,iPhone with Siri,268
+Netherlands,2023,17,20,63,45,Amazon Echo,1186
+Saudi Arabia,2023,11,63,26,69,Galaxy Bixby,767
+Philippines,2022,16,23,61,42,Google Nest,957
+Argentina,2022,25,47,28,58,Android Smartphones,315
+Malaysia,2022,27,33,40,61,Amazon Echo,788
+UAE,2023,12,46,42,49,Amazon Echo,1317
+Netherlands,2024,33,54,13,32,Google Nest,378
+Indonesia,2022,34,60,6,69,Galaxy Bixby,1168
+Ukraine,2022,44,50,6,50,iPhone with Siri,270
+Argentina,2024,27,44,29,67,Amazon Echo,686
+India,2023,32,29,39,32,iPhone with Siri,79
+Denmark,2023,47,31,22,54,Galaxy Bixby,162
+Canada,2023,31,54,15,62,Amazon Echo,732
+Switzerland,2022,26,59,15,38,Google Nest,708
+France,2022,29,38,33,68,Galaxy Bixby,762
+Japan,2022,20,46,34,60,Amazon Echo,263
+China,2022,37,30,33,41,Android Smartphones,1027
+Turkey,2022,45,50,5,62,Android Smartphones,1297
+Argentina,2024,39,57,4,64,iPhone with Siri,566
+Spain,2023,23,43,34,31,Google Nest,426
+Austria,2023,35,43,22,73,iPhone with Siri,682
+Italy,2024,25,49,26,70,Android Smartphones,583
+Denmark,2023,26,53,21,47,Android Smartphones,1217
+Australia,2024,48,41,11,72,Galaxy Bixby,471
+Austria,2023,32,38,30,37,Galaxy Bixby,287
+Philippines,2022,10,43,47,44,Amazon Echo,1042
+Nigeria,2022,50,57,35,53,Galaxy Bixby,1072
+Bangladesh,2023,20,28,52,33,Amazon Echo,421
+USA,2023,50,20,30,50,Android Smartphones,873
+Malaysia,2023,36,45,19,41,Amazon Echo,247
+UK,2024,12,57,31,64,Google Nest,784
+Colombia,2022,29,68,3,70,Google Nest,1011
+Poland,2022,44,51,5,43,iPhone with Siri,574
+Switzerland,2022,22,62,16,53,Galaxy Bixby,294
+Austria,2023,28,50,22,61,Amazon Echo,139
+Denmark,2024,10,44,46,61,Galaxy Bixby,605
+South Africa,2024,16,24,60,55,Galaxy Bixby,808
+South Africa,2023,33,23,44,62,Google Nest,819
+Ukraine,2023,29,49,22,31,Android Smartphones,474
+Mexico,2023,38,28,34,44,Galaxy Bixby,384
+Colombia,2024,46,44,10,66,Galaxy Bixby,807
+Thailand,2024,50,66,19,71,Amazon Echo,100
+Saudi Arabia,2022,48,36,16,52,Amazon Echo,836
+Netherlands,2022,23,26,51,58,iPhone with Siri,57
+Ukraine,2022,25,20,55,63,Android Smartphones,443
+Egypt,2022,24,53,23,41,Amazon Echo,783
+Netherlands,2023,50,59,14,70,Android Smartphones,201
+Brazil,2022,23,46,31,49,Android Smartphones,376
+Australia,2023,50,32,18,49,Galaxy Bixby,558
+UAE,2023,49,61,39,66,iPhone with Siri,980
+China,2022,29,24,47,70,iPhone with Siri,228
+India,2024,24,68,8,62,Google Nest,532
+South Africa,2022,11,65,24,67,Galaxy Bixby,936
+South Korea,2023,11,47,42,45,Amazon Echo,785
+Netherlands,2022,27,52,21,72,Amazon Echo,543
+Russia,2023,22,55,23,49,iPhone with Siri,241
+India,2024,32,51,17,37,Google Nest,35
+Switzerland,2023,18,55,27,71,Google Nest,1217
+Argentina,2023,42,42,16,61,iPhone with Siri,1335
+Norway,2024,18,57,25,55,Android Smartphones,1098
+Indonesia,2024,21,56,23,39,Galaxy Bixby,73
+Colombia,2023,20,27,53,56,Google Nest,32
+Argentina,2023,43,34,23,66,Galaxy Bixby,581
+Philippines,2023,12,59,29,70,Galaxy Bixby,547
+Australia,2022,15,28,57,63,Amazon Echo,209
+Austria,2022,27,31,42,63,Android Smartphones,512
+Indonesia,2024,36,23,41,60,Amazon Echo,450
+Austria,2022,15,57,28,50,iPhone with Siri,870
+Belgium,2024,34,48,18,45,Galaxy Bixby,430
+Spain,2024,34,33,33,53,Google Nest,1009
+Russia,2024,30,56,14,31,Amazon Echo,35
+Vietnam,2023,28,55,17,64,iPhone with Siri,566
+Saudi Arabia,2024,41,48,11,48,Android Smartphones,1397
+Mexico,2022,47,64,40,56,Amazon Echo,987
+Brazil,2023,10,47,43,40,Google Nest,259
+Poland,2023,34,59,7,62,Galaxy Bixby,966
+UAE,2022,28,51,21,44,Galaxy Bixby,612
+Denmark,2022,44,70,14,47,Galaxy Bixby,1197
+UK,2022,44,54,2,63,iPhone with Siri,744
+Belgium,2022,20,54,26,66,Galaxy Bixby,696
+UK,2024,42,23,35,56,Android Smartphones,363
+Finland,2023,37,29,34,50,Amazon Echo,230
+UK,2022,20,27,53,48,Galaxy Bixby,1186
+UK,2024,49,27,24,75,iPhone with Siri,1317
+Turkey,2022,24,40,36,62,Galaxy Bixby,1104
+Canada,2022,44,51,5,53,Amazon Echo,135
+Ukraine,2024,32,44,24,50,Android Smartphones,691
+Austria,2023,23,64,13,68,Amazon Echo,1099
+Saudi Arabia,2024,19,46,35,49,iPhone with Siri,997
+Sweden,2023,15,60,25,30,Amazon Echo,1069
+Switzerland,2022,37,64,22,35,Android Smartphones,547
+Malaysia,2022,39,32,29,61,Google Nest,1030
+China,2024,24,22,54,40,Galaxy Bixby,1269
+Germany,2024,19,58,23,69,Amazon Echo,770
+UAE,2022,31,51,18,63,iPhone with Siri,886
+India,2024,30,49,21,36,Google Nest,454
+USA,2023,46,26,28,63,Galaxy Bixby,931
+Japan,2024,38,50,12,55,Galaxy Bixby,1380
+Saudi Arabia,2022,24,54,22,33,Google Nest,986
+China,2022,37,62,1,30,Amazon Echo,506
+Colombia,2022,24,57,19,54,iPhone with Siri,982
+Poland,2022,48,65,27,51,Amazon Echo,1196
+Mexico,2022,39,38,23,42,Galaxy Bixby,452
+Vietnam,2023,12,47,41,67,iPhone with Siri,846
+China,2022,20,66,14,69,Galaxy Bixby,266
+South Korea,2023,34,26,40,36,Google Nest,795
+Poland,2024,44,30,26,42,Android Smartphones,661
+Russia,2023,20,33,47,38,Amazon Echo,1166
+Bangladesh,2023,45,45,10,49,Android Smartphones,258
+China,2023,29,66,5,48,Galaxy Bixby,1345
+Austria,2024,26,59,15,54,Google Nest,718
+China,2022,30,25,45,68,Android Smartphones,1115
+Belgium,2023,32,22,46,55,Amazon Echo,255
+Belgium,2024,26,46,28,70,Galaxy Bixby,102
+Russia,2022,44,23,33,65,Amazon Echo,575
+USA,2022,40,28,32,71,iPhone with Siri,927
+Netherlands,2024,44,56,28,72,Amazon Echo,850
+Brazil,2023,33,47,20,45,Amazon Echo,1068
+Indonesia,2023,15,55,30,64,Google Nest,1055
+Japan,2023,33,66,1,65,Amazon Echo,1229
+Thailand,2024,50,33,17,35,iPhone with Siri,892
+Brazil,2024,47,67,12,51,Google Nest,411
+Egypt,2023,40,60,13,46,iPhone with Siri,1130
+Turkey,2024,30,64,6,53,Android Smartphones,290
+Thailand,2023,32,23,45,50,Google Nest,858
+South Korea,2024,40,27,33,43,Google Nest,1276
+Poland,2024,24,42,34,60,Google Nest,1262
+Thailand,2022,18,50,32,67,Amazon Echo,1239
+Japan,2022,49,42,9,71,Android Smartphones,869
+South Korea,2023,30,28,42,57,iPhone with Siri,452
+Canada,2022,33,63,4,31,Amazon Echo,1004
+Canada,2023,10,21,69,39,Google Nest,443
+Spain,2024,26,65,9,36,Galaxy Bixby,576
+Nigeria,2022,17,43,40,50,Galaxy Bixby,626
+Philippines,2022,42,50,8,54,Galaxy Bixby,919
+Brazil,2024,39,60,1,35,iPhone with Siri,364
+India,2022,13,35,52,53,Android Smartphones,681
+Switzerland,2024,25,48,27,56,Galaxy Bixby,1128
+Bangladesh,2022,42,34,24,52,Android Smartphones,525
+Poland,2024,22,49,29,46,Android Smartphones,1191
+Turkey,2023,40,66,37,44,Android Smartphones,820
+South Africa,2023,30,20,50,56,iPhone with Siri,628
+Japan,2024,24,32,44,46,iPhone with Siri,582
+Germany,2022,15,23,62,48,Galaxy Bixby,1033
+Poland,2024,44,42,14,58,Android Smartphones,1305
+Italy,2022,28,34,38,44,iPhone with Siri,1190
+Thailand,2022,50,27,23,35,iPhone with Siri,679
+Argentina,2024,32,25,43,62,Android Smartphones,1385
+South Korea,2023,43,43,14,69,Android Smartphones,1384
+Germany,2022,42,67,25,60,Galaxy Bixby,991
+Spain,2023,47,63,25,30,iPhone with Siri,474
+Turkey,2022,49,43,8,64,Amazon Echo,597
+Argentina,2022,36,66,12,45,Amazon Echo,232
+UK,2023,34,66,11,42,Galaxy Bixby,444
+Vietnam,2022,33,52,15,75,Android Smartphones,1284
+Austria,2023,29,57,14,69,iPhone with Siri,722
+China,2023,11,64,25,75,Google Nest,733
+Australia,2023,49,26,25,49,Galaxy Bixby,1099
+Brazil,2024,12,44,44,51,Galaxy Bixby,714
+Malaysia,2024,22,48,30,46,Android Smartphones,823
+Russia,2023,47,21,32,37,Amazon Echo,39
+Australia,2022,47,65,12,46,Amazon Echo,523
+Indonesia,2023,26,45,29,57,Amazon Echo,484
+Russia,2024,42,21,37,51,Amazon Echo,188
+USA,2022,30,37,33,49,iPhone with Siri,339
+Philippines,2024,34,29,37,63,Android Smartphones,1001
+Ukraine,2023,36,39,25,42,Galaxy Bixby,1118
+UK,2024,32,22,46,45,Galaxy Bixby,1310
+Bangladesh,2022,37,22,41,53,Google Nest,599
+Egypt,2023,22,36,42,38,Galaxy Bixby,148
+South Korea,2023,36,38,26,70,Android Smartphones,303
+Spain,2022,38,20,42,66,Google Nest,16
+Netherlands,2023,17,42,41,41,Google Nest,674
+Saudi Arabia,2022,10,46,44,44,Amazon Echo,521
+Brazil,2022,16,28,56,44,iPhone with Siri,1010
+Argentina,2023,11,40,49,31,Google Nest,615
+USA,2023,18,39,43,65,iPhone with Siri,316
+Argentina,2024,42,23,35,66,Android Smartphones,204

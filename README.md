@@ -16,8 +16,7 @@ To visualize and compare the **adoption rates, market share, and usage patterns*
 ## 🔍 Key Visualizations
 
 - 🌐 **Filled Map** – Smart Speaker Adoption by Country  
-- 📊 **Clustered Bar Chart** – Assistant Usage % by Country  
-- 🧭 **Pie Chart** – Global Market Share of Voice Assistants  
+- 📊 **Clustered Bar Chart** – Assistant Usage % by Country    
 - 📈 **Line Chart** – Assistant Usage Trends by Year  
 - 🧱 **Treemap** – Popular Device Types  
 - 
